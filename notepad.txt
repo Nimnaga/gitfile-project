@@ -1,0 +1,10 @@
+This is a devops lab
+#include<stdio.h>
+int main() 
+{
+int a,b,c;
+a=5;
+b=6;
+c=a+b;
+printf("the sum of a and b is:",c);
+}
